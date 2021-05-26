@@ -38,6 +38,7 @@ const ContactSection = () => {
       }
       setSubmitForm(false);
     }
+    //eslint-disable-next-line
   }, [errors]);
 
   const handleChange = (e) => {

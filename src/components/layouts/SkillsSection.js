@@ -20,10 +20,10 @@ const SkillsSection = () => {
           <div className="col-md-6">
             <h2 className='text-center'>Languages and Frameworks</h2>
             <div className="my-4">
-              <h3 class="fs-6">HTML5</h3>
-              <div class="progress">
+              <h3 className ="fs-6">HTML5</h3>
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  className="progress-bar progress-bar-striped progress-bar-animated"
                   role="progressbar"
                   aria-valuenow="75"
                   aria-valuemin="0"
@@ -33,10 +33,10 @@ const SkillsSection = () => {
               </div>
             </div>
             <div className="skill-item mb-4">
-              <h3 class="fs-6">CSS3</h3>
-              <div class="progress">
+              <h3 className="fs-6">CSS3</h3>
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  className="progress-bar progress-bar-striped progress-bar-animated"
                   role="progressbar"
                   aria-valuenow="75"
                   aria-valuemin="0"
@@ -46,10 +46,10 @@ const SkillsSection = () => {
               </div>
             </div>
             <div className="skill-item mb-4">
-              <h3 class="fs-6">JavaScript</h3>
-              <div class="progress">
+              <h3 className="fs-6">JavaScript</h3>
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  className="progress-bar progress-bar-striped progress-bar-animated"
                   role="progressbar"
                   aria-valuenow="75"
                   aria-valuemin="0"
@@ -59,10 +59,10 @@ const SkillsSection = () => {
               </div>
             </div>
             <div className="skill-item mb-4">
-              <h3 class="fs-6">React</h3>
-              <div class="progress">
+              <h3 className="fs-6">React</h3>
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  className="progress-bar progress-bar-striped progress-bar-animated"
                   role="progressbar"
                   aria-valuenow="75"
                   aria-valuemin="0"
@@ -73,10 +73,10 @@ const SkillsSection = () => {
             </div>
 
             <div className="skill-item mb-4">
-              <h3 class="fs-6">NodeJs</h3>
-              <div class="progress">
+              <h3 className="fs-6">NodeJs</h3>
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  className="progress-bar progress-bar-striped progress-bar-animated"
                   role="progressbar"
                   aria-valuenow="75"
                   aria-valuemin="0"
@@ -90,10 +90,10 @@ const SkillsSection = () => {
             <h2 className='text-center'>Tools</h2>
             <div>
               <div className="my-4">
-                <h3 class="fs-6">Firebase</h3>
-                <div class="progress">
+                <h3 className="fs-6">Firebase</h3>
+                <div className="progress">
                   <div
-                    class="progress-bar progress-bar-striped progress-bar-animated"
+                    className="progress-bar progress-bar-striped progress-bar-animated"
                     role="progressbar"
                     aria-valuenow="75"
                     aria-valuemin="0"
@@ -103,10 +103,10 @@ const SkillsSection = () => {
                 </div>
               </div>
               <div className="mb-4">
-                <h3 class="fs-6">GitHub</h3>
-                <div class="progress">
+                <h3 className="fs-6">GitHub</h3>
+                <div className="progress">
                   <div
-                    class="progress-bar progress-bar-striped progress-bar-animated"
+                    className="progress-bar progress-bar-striped progress-bar-animated"
                     role="progressbar"
                     aria-valuenow="75"
                     aria-valuemin="0"
@@ -116,10 +116,10 @@ const SkillsSection = () => {
                 </div>
               </div>
               <div className="mb-4">
-                <h3 class="fs-6">MongoDB</h3>
-                <div class="progress">
+                <h3 className="fs-6">MongoDB</h3>
+                <div className="progress">
                   <div
-                    class="progress-bar progress-bar-striped progress-bar-animated"
+                    className="progress-bar progress-bar-striped progress-bar-animated"
                     role="progressbar"
                     aria-valuenow="75"
                     aria-valuemin="0"
@@ -129,10 +129,10 @@ const SkillsSection = () => {
                 </div>
               </div>
               <div className="mb-4">
-                <h3 class="fs-6">Visual Studio Code</h3>
-                <div class="progress">
+                <h3 className="fs-6">Visual Studio Code</h3>
+                <div className="progress">
                   <div
-                    class="progress-bar progress-bar-striped progress-bar-animated"
+                    className="progress-bar progress-bar-striped progress-bar-animated"
                     role="progressbar"
                     aria-valuenow="75"
                     aria-valuemin="0"

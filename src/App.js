@@ -53,7 +53,7 @@ function App() {
       <Modal
         title="My Bar"
         id="portfolioModal5"
-        img="game.png"
+        img="safe.png"
         urlPage="https://mybar-agus.netlify.app/"
         urlGit="https://github.com/AgustinVillarreal/portfolio-proyects/tree/main/portfolio-proyects/bebidas"
         description="Cocktail Search engine. Project made in React, consulting TheCocktailDB."
