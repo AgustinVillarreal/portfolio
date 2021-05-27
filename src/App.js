@@ -37,8 +37,8 @@ function App() {
         title="Product Hunt Clone"
         id="portfolioModal3"
         img="circus.png"
-        urlPage="#!"
-        urlGit=""
+        urlPage="https://producthunt-agus.netlify.app/"
+        urlGit="https://github.com/AgustinVillarreal/portfolio-proyects/tree/main/portfolio-proyects/produnthuntnext"
         description="Project that pretends to be Product Hunt. Front-end made with React and NextJs, using Firebase to authentications and Firestore Database"
       />
       <Modal

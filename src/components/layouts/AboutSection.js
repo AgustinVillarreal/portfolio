@@ -21,7 +21,7 @@ const AboutSection = () => {
         <div className="row">
           <div className="col-lg-4 ms-auto">
             <p className="lead">
-              Hello, I am Agustin Villarreal, I am 19 years old and I am from
+              Hello, I am Agustin Villarreal, I am 20 years old and I am from
               Argentina. I began to be interested in web development in 2020 and
               in a self-taught way I began to carry out my own projects
             </p>
